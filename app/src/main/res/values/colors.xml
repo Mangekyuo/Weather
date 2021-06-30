@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clearsky">#8FC9FF</color>
+    <color name="Scatteredclouds_day">#6EB3DA</color>
+    <color name="Brokenclouds_day">#5286A5</color>
+    <color name="Overcastclouds_day">#3E6880</color>
+    <color name="Lightrain_day">#4F8FCB</color>
+    <color name="Moderaterain_day">#3D73A6</color>
+    <color name="Heavyrain_day">#244D74</color>
+
+    <color name="Night">#39395D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#2566D8</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+</resources>
